@@ -12,7 +12,7 @@ Tk Ping is a GUI version for windows ping.exe.
 
 It is also a sample for Python GUI programming using Tkinter shows you how to:
 
-* layout using .grid()
+* layout using *.grid()*
 * create button with image
 * create readonly text
 * change font style in Tkinter

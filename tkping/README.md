@@ -2,7 +2,9 @@
 
 Tk Ping is a GUI version for windows ping.exe.
 
-Features:
+![Screenshot](screenshot.jpg)
+
+##Features:
 
 * log to file
 * date and time for each line
